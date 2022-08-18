@@ -22,5 +22,6 @@ Using Java as well as the Android libraries I made a functioning Android applica
 Using Java as well as libraries such as Spigot as well as PlaceholderAPI I made a Minecraft server plugin which will allow users to use a tag which can be translated by PlaceholderAPI, and alows players to swap between tags when ever they wish.
 
 # GitHub Stats
-![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical)
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical)
+<br>
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical)
