@@ -41,6 +41,9 @@
 
 ###  Latest Projects
 
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JayPaulinCodes&theme=radical&repo=smush">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JayPaulinCodes&theme=radical&repo=Logger">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssDrones">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=wordlejs">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssCaptcha-bot">
