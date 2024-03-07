@@ -1,80 +1,67 @@
-# Heyoo!
-My name is Jacob Paulin, I'm a college graduate who studied [computer programing](https://www.algonquincollege.com/sat/program/computer-programming/#overview) at [Algonquin College](https://www.algonquincollege.com). 
-I'm from Ottawa Canada!
+# 🌿 Jacob Paulin
 
-# Projects
+**`Software Developer`**
 
-## [SparrowStudios](https://github.com/SparrowStudios)
-I've made a small orginazation for myself to showcase work and collaborate with others, it's called SparrowStudios and can be found on [GitHub](https://github.com/SparrowStudios) and on [Discord](https://discord.gg/FTYjcbkzFn)
-<br>
+👋 Jacob Paulin is a [Computer Programing](https://www.algonquincollege.com/sat/program/computer-programming/#overview) graduate from [Algonquin College](https://www.algonquincollege.com) of Ottawa Ontario. Jacob is a software developer who loves to build fun and creatize projects that involves multiple programming languages and different frameworks.
 
-<details>
-  <summary>Lua and FiveM</summary>
+---
 
-  ### [JayBaitCar](https://github.com/JayPaulinCodes/JayBaitCar)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=jaybaitcar">
-  
-  ### [JayDiscordPresence](https://github.com/JayPaulinCodes/JayDiscordPresence)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=jaydiscordpresence">
-  
-  ### [JayVehicleControl](https://github.com/JayPaulinCodes/JayVehicleControl)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=jayvehiclecontrol">
-  
-  ### [JaySpikeStrips](https://github.com/JayPaulinCodes/JaySpikeStrips)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=jayspikestrips">
-  
-  ### [JayBasics](https://github.com/JayPaulinCodes/JayBasics)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=jaybasics">
-  
-  ### [JayPersistentFlashlight](https://github.com/JayPaulinCodes/JayPersistentFlashlight)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=jaypersistentflashlight">
-  
-  ### [JayToolbox](https://github.com/JayPaulinCodes/JayToolbox)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=jaytoolbox">
-</details>
+### Connect with me
 
 
-<details>
-  <summary>C# and FiveM</summary>
-  
-  ### [ssDrones](https://github.com/SparrowStudios/ssDrones)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssDrones">
-</details>
+
+### 🧰 Languages and Tools
+
+<span>
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</span>
+<br/>
+<br/>
+
+<span>
+  <img align="left" alt="GitHub" width="26px"  style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="VisualStudio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
+  <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg">
+</span>
+<br/>
+<br/>
 
 
-<details>
-  <summary>JavaScript and NodeJS</summary>
+---
 
-  ### [WordleJS](https://github.com/JayPaulinCodes/WordleJS)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=wordlejs">
-  
-  ### [discord-webhook-api](https://github.com/SparrowStudios/discord-webhook-api)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=discord-webhook-api">
-</details>
+### GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+---
 
-<details>
-  <summary>TypeScript and NodeJS</summary>
+###  Latest Projects
 
-  ### [ssCaptcha-bot](https://github.com/SparrowStudios/ssCaptcha-bot)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssCaptcha-bot">
-  
-  ### [ssQueue](https://github.com/SparrowStudios/ssQueue)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssQueue">
-</details>
-
-
-<details>
-  <summary>Java</summary>
-
-  ### [TicketQuery (CST2335 Project/Assignment)](https://github.com/JayPaulinCodes/CST2335_ProjectAssignment)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=CST2335_ProjectAssignment">
-  
-  ### [NebulaTags](https://github.com/JayPaulinCodes/NebulaTags)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=NebulaTags">
-</details>
-
-# GitHub Stats
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical)
-<br>
-![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssDrones">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=wordlejs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssCaptcha-bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssQueue">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=CST2335_ProjectAssignment">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=NebulaTags">
