@@ -40,20 +40,11 @@
 ---
 
 ### GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical">
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ---
 
