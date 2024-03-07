@@ -39,15 +39,6 @@
 
 ---
 
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical">
-<br/>
-<br/>
-
-
----
-
 ###  Latest Projects
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssDrones">
@@ -56,3 +47,12 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssQueue">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=CST2335_ProjectAssignment">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=NebulaTags">
+
+
+---
+
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical">
+<br/>
+<br/>
