@@ -25,6 +25,7 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical&layout=compact">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical&show=reviews">
 </p>
