@@ -1,5 +1,10 @@
 <p align="center">Heyoo!<br>I'm a <a href="https://www.algonquincollege.com/sat/program/computer-programming/#overview">Computer Programing</a> graduate, and current <a href="https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/#overview">CET</a> student at <a href="https://www.algonquincollege.com">Algonquin College</a> of Ottawa Ontario.</p>
 
+
+---
+<h3 align="center">📚 Languages & Tools</h3>
+<p align="center">Here is a quick glance at some of the tools and languages I have knowledge in and enjoy using!</p>
+
 <p align="center">
   <img alt="NodeJS Static Badge" src="https://img.shields.io/badge/Language-Node.JS-339933?style=plastic&logo=nodedotjs">
   <img alt="C# Static Badge" src="https://img.shields.io/badge/Language-C%23-9b4993?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjQ1NXB4IiBoZWlnaHQ9IjUxMnB4Ij48cGF0aCBkPSJNMzM1LjIyMTk4NDksMjQ0LjY2MzY5NjNoMTQuMTg1NDg1OEwzNDcuNTYzNDE1NSwyNjJoLTE0LjEzNjE2OTRMMzM1LjIyMTk4NDksMjQ0LjY2MzY5NjN6IE00NTQuOTgwMzQ2NywxNDcuNDA3NjUzOHYyMTcuMTg0NzUzNGMtMC40ODE2Mjg0LDEzLjcxNTgyMDMtNy40NTMwMDI5LDI1Ljk3NzE3MjktMTkuNzAwOTg4OCwzNC4xMjM0MTMxTDI0Ny4xOTExMDExLDUwNy4zMDc0MzQxYy0xMC44MzQ3Nzc4LDYuMjU2NzEzOS0yOC41NjcxMzg3LDYuMjU2NzEzOS0zOS40MDE4NTU1LDBMMTkuNzAwOTI3NywzOTguNzE1ODIwM0M4LjI4NTU4MzUsMzkxLjIzMTY4OTUsMC44NDI5NTY1LDM3OS4xNjM3NTczLDAsMzY0LjU5MjQwNzJWMTQ3LjQwNzY1MzhjMC0xMi41MTE5NjI5LDguODY0NjI0LTI3Ljg2ODI4NjEsMTkuNzAwOTI3Ny0zNC4xMjM1MzUyTDIwNy43ODkyNDU2LDQuNjkyNTA0OWMxMC44MzQ3MTY4LTYuMjU2NjUyOCwyOC41NjcwNzc2LTYuMjU2NjUyOCwzOS40MDE4NTU1LDBsMTg4LjA4ODI1NjgsMTA4LjU5MTYxMzhDNDQ2LjY1NjU1NTIsMTIwLjk2NDkwNDgsNDU0LjU0MDM0NDIsMTM0LjI0MjkxOTksNDU0Ljk4MDM0NjcsMTQ3LjQwNzY1Mzh6IE0zNTguODMwNzQ5NSwzMzEuODcyMzc1NWwtNjUuNjM0NjQzNi0zNy45Nzg4ODE4Yy00My43ODI0MDk3LDcwLjA4NTQ0OTItMTQwLjQ3NTY0NywzNS44MzYzMDM3LTE0MS41MzYwMTA3LTM3Ljg5MjgyMjNjMy41MzA3NjE3LTc5Ljk5ODI5MSwxMDEuOTEwMDk1Mi0xMDMuNDMwNzg2MSwxNDEuNTMxNjE2Mi0zNy44OTcxNTU4bDY1LjYzNDU4MjUtMzcuOTgwNDA3N0MyNzMuMjg5MTg0Niw0Mi41MjE2Njc1LDc0LjkzODkwMzgsMTA3LjkxMTkyNjMsNzUuODMwMDc4MSwyNTYuMDAwNjcxNEM3OS42MzE3NzQ5LDQxNS42NTMwNzYyLDI4My40NDc2OTI5LDQ2Mi43MzU0NzM2LDM1OC44MzA3NDk1LDMzMS44NzIzNzU1eiBNMzc0LjUsMjMyLjU5MTkxODloLTExLjI1Mjc0NjZMMzY1LjI3NTUxMjcsMjEzaC0xMi41bC0yLjA4Mzk4NDQsMTkuNTkxOTE4OWgtMTQuMjE5Nzg3NkwzMzguNSwyMTNIMzI2bC0yLjA4Mzk4NDQsMTkuNTkxOTE4OUgzMTJ2MTIuMDcxNzc3M2gxMC42MzE5NThMMzIwLjc4NzkwMjgsMjYySDMwOC41djEyLjA3MTc3NzNoMTEuMDAzNzg0MkwzMTcuMjI0NDg3MywyOTUuNWgxMi43MzQ2ODAybDIuMjE4MzgzOC0yMS40MjgyMjI3aDE0LjEwMTc0NTZMMzQ0LDI5NS41aDEyLjczNDY4MDJsMi4yMTgzODM4LTIxLjQyODIyMjdIMzcxVjI2MmgtMTAuNzk3MjQxMmwxLjc5NDczODgtMTcuMzM2MzAzN0gzNzQuNVYyMzIuNTkxOTE4OXoiLz48L3N2Zz4=">
@@ -23,9 +28,9 @@
 
 ---
 <h3 align="center">📈 GitHub Stats</h3>
+<p align="center">For those of you who are also nerds for stats, here is a glance at my GitHub stats!</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical&layout=compact">
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical&layout=donut">
   <img src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical&show=reviews">
 </p>
