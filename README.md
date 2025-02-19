@@ -25,6 +25,11 @@
   <img alt="PostgreSQL Static Badge" src="https://img.shields.io/badge/Tool-PostgreSQL-4169E1?style=plastic&logo=postgresql">
 </p>
 
+<p align="center">
+  <a href="./PORTFOLIO.md"><img alt="Portfolio Badge" src="https://img.shields.io/badge/View%20My%20Portfolio-FE3A61?style=plastic&logo=googleforms&labelColor=gray"></a>
+</p>
+
+
 
 ---
 <h3 align="center">📈 GitHub Stats</h3>
