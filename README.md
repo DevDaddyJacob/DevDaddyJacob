@@ -37,6 +37,6 @@
 <p align="center">For those of you who are also nerds for stats, here is a glance at my GitHub stats!</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPaulinCodes&show_icons=true&theme=radical&layout=donut">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayPaulinCodes&show_icons=true&theme=radical&show=reviews">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaddyJacob&show_icons=true&theme=radical&layout=donut">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDaddyJacob&show_icons=true&theme=radical&show=reviews">
 </p>
