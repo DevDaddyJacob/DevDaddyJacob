@@ -1,6 +1,14 @@
 <div align="center">
 
 # Portfolio Projects
+<p>Welcome to my portfolio! It's nothing too fancy but listed here are some specific projects of mine I like to highlight, but not everything I do is on this page. For a more detailed list of what I'm up to check out one of my lists below.</p>
+
+<p><a href="https://github.com/stars/DevDaddyJacob/lists/fivem-projects">FiveM Projects List</a></p>
+<p><a href="https://github.com/stars/DevDaddyJacob/lists/school-projects">School Projects List</a></p>
+<p><a href="https://github.com/stars/DevDaddyJacob/lists/language-c-c-sharp">C# Language Projects List</a></p>
+<p><a href="https://github.com/stars/DevDaddyJacob/lists/language-java">Java Language Projects List</a></p>
+<p><a href="https://github.com/stars/DevDaddyJacob/lists/language-js-ts">JavaScript / TypeScript Language Projects List</a></p>
+<p><a href="https://github.com/stars/DevDaddyJacob/lists/language-lua">Lua Language Projects List</a></p>
 
 <br>
 <h2><a href="https://github.com/JayPaulinCodes/Teamspeak.js">Teamspeak.js</a></h2>
