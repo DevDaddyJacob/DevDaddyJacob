@@ -1,7 +1,8 @@
 <div align="center">
 
 # Portfolio Projects
-<p>Welcome to my portfolio! It's nothing too fancy but listed here are some specific projects of mine I like to highlight, but not everything I do is on this page. For a more detailed list of what I'm up to check out one of my lists below.</p>
+<p>Welcome to my portfolio!</p>
+<p>It's nothing too fancy but listed here are some specific projects of mine I like to highlight, but not everything I do is on this page. For a more detailed list of what I'm up to check out one of my lists below.</p>
 
 <p><a href="https://github.com/stars/DevDaddyJacob/lists/fivem-projects">FiveM Projects List</a></p>
 <p><a href="https://github.com/stars/DevDaddyJacob/lists/school-projects">School Projects List</a></p>
