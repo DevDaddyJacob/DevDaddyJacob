@@ -6,6 +6,7 @@
 
 <p><a href="https://github.com/stars/DevDaddyJacob/lists/fivem-projects">FiveM Projects List</a></p>
 <p><a href="https://github.com/stars/DevDaddyJacob/lists/school-projects">School Projects List</a></p>
+<p><a href="https://github.com/stars/DevDaddyJacob/lists/language-c">C Language Projects List</a></p>
 <p><a href="https://github.com/stars/DevDaddyJacob/lists/language-c-c-sharp">C# Language Projects List</a></p>
 <p><a href="https://github.com/stars/DevDaddyJacob/lists/language-java">Java Language Projects List</a></p>
 <p><a href="https://github.com/stars/DevDaddyJacob/lists/language-js-ts">JavaScript / TypeScript Language Projects List</a></p>
